@@ -145,7 +145,7 @@
     "ramda-adjunct": "^2.25.0",
     "react-docgen": "^5.3.0",
     "readable-stream": "^3.6.0",
-    "regenerator-runtime": "^0.11.0",
+    "regenerator-runtime": "^0.13.5",
     "requestify": "^0.2.5",
     "semver": "^5.4.1",
     "serialize-error": "^5.0.0",
