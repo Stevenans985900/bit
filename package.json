@@ -81,7 +81,7 @@
     "@teambit/gitconfig": "^2.0.6",
     "@vuedoc/parser": "^2.0.0-beta.5",
     "acorn": "^6.4.1",
-    "ajv": "^6.11.0",
+    "ajv": "^6.12.3",
     "array-difference": "^0.0.1",
     "async-exit-hook": "^2.0.1",
     "babel-runtime": "^6.23.0",
